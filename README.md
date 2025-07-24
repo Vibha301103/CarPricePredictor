@@ -15,3 +15,7 @@ This is a Flask-based web app for predicting car prices using a trained ML model
 
 4. Open browser and go to:
    http://127.0.0.1:5000/
+### Demo Screenshot
+
+![App Screenshot](static/screenshot.png)
+
